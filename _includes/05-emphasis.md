@@ -1,1 +1,10 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# places i've called home:
+- ibiza
+- lyon
+- banff
+- andorra
+
+# some things i like:
+- _ELITE_ on netflix
+- learning **french**
+- having _**curly**_ hair
